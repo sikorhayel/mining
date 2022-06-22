@@ -1,0 +1,4 @@
+wget https://github.com/f04ever/noso-2m/releases/download/v0.2.5/noso-2m-v0.2.5-linux-x86_64.tar
+tar -xf noso-2m-v0.2.5-linux-x86_64.tar
+cd noso-2m-v0.2.5-linux-x86_64
+$ ./noso-2m -a N2bwFNoNMPA6G1Ey2UqArutHUzv78Df -t 4 2>errors.txt
